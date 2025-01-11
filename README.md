@@ -49,6 +49,16 @@ from kafka producer like Product added or order created. Run this program in a s
 
 ![image](https://github.com/user-attachments/assets/99c0520b-2b98-42ac-ba2f-77d417a28713)   
 
+# API Gateway
+
+If we are building a python django web app which uses the microservices application, to talk   
+to each microservices and route the http requests to the correct microservices is done   
+using API Gateway, I haven't used the gateway, the one good for django framework is:   
+
+FastAPI + Uvicorn - simple and lightweight API
+
+
+
 
 
 
