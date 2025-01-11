@@ -40,7 +40,16 @@ In each microservice I included the Dockerfile - this will create the docker ima
 # Postman API Test   
 ![image](https://github.com/user-attachments/assets/a78fe0a2-b89f-4265-bb47-2499dbdcf766)   
 ![image](https://github.com/user-attachments/assets/9a714704-c7cc-4924-84c0-ab7ff83c9a3b)   
-![image](https://github.com/user-attachments/assets/dad2f821-7ec5-4a1f-b30e-ca9dcca06db0)   
+![image](https://github.com/user-attachments/assets/dad2f821-7ec5-4a1f-b30e-ca9dcca06db0) 
+
+# Kafka Consumer program   
+
+I have included the consumer.py program in product_service, which will show all messages produced   
+from kafka producer like Product added or order created. Run this program in a separate terminal.
+
+![image](https://github.com/user-attachments/assets/99c0520b-2b98-42ac-ba2f-77d417a28713)   
+
+
 
 
 
